@@ -1,0 +1,1 @@
+Cron command:@monthly /Users/skylerbrown/Documents/cron_script1shell script:#!/bin/bashmv /Users/skylerbrown/Documents/shell_test /Users/skylerbrown/Documents/shell_test_complete    
